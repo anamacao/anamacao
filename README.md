@@ -9,9 +9,9 @@ Em períodos mais livres,dou aulas de inglês. Também faço voluntariado na ár
 Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de Negócios B2B na AIESEC de Franca, uma organização sem fins lucrativos.
 
 
-# - 📫 Como me encontrar: ...
-# - ⚡ Fun fact: Amo dançar 💃, ler 📚 e ir a karaokês 🎤
-# - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
+### - 📫 Como me encontrar: ...
+### - ⚡ Fun fact: Amo dançar 💃, ler 📚 e ir a karaokês 🎤
+### - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
 
 <!--
 **anamacao/anamacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
