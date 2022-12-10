@@ -13,6 +13,8 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
 ### - ⚡ Fun fact: Amo dançar 💃, ler 📚 e ir a karaokês 🎤
 ### - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
 
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" /> 
 <!--
 **anamacao/anamacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
