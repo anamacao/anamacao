@@ -1,6 +1,10 @@
 # Welcome ;) 👋
 
-Eu me chamo Ana Beatriz, mmas sou mais conhecida como Vanellope na universidade 💖 Estou no meu segundo ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
+Eu me chamo Ana Beatriz, mas sou mais conhecida como Vanellope na universidade 💖 Estou no meu segundo ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
+
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
 
 Atualmente, faço parte do grupo de pesquisa Lantri (grupo e laboratório de novas tecnologias de pesquisa em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados para projetos de pesquisas dentro do grupo. Além disso, sou diretora da comissão de Comunicação do Grupo de Extensão MKI (Marketing Internacional) e faço parte do projeto Empresarial. 
 
