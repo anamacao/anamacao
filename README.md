@@ -1,6 +1,6 @@
 <span align="center">
 
-# Welcome ;) 👋
+# ✨ Welcome ;) 👋
 
 <p align="center">
 Eu me chamo Ana Beatriz, mas sou mais conhecida como Vanellope na universidade 💖 Estou no meu segundo ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
@@ -18,6 +18,9 @@ Em períodos mais livres,dou aulas de inglês. Também faço voluntariado na ár
 <p align="center">
 Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de Negócios B2B na AIESEC de Franca, uma organização sem fins lucrativos.
 
+### - ⚡ Fun fact: Amo dançar 💃, ler 📚 e ir a karaokês 🎤
+### - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
+  
 ##
   <a href="https://github.com/anamacao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamacao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamacao&layout=compact&langs_count=7&theme=nightowl"/>
@@ -35,13 +38,13 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
 </div>
 
 ##
+### - 📫 Como me encontrar:
+<div> 
+  <a href = "mailto:anabmbferreira929@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-beatriz-m-de-b-ferreira-44456b245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### - 📫 Como me encontrar: ...
-### - ⚡ Fun fact: Amo dançar 💃, ler 📚 e ir a karaokês 🎤
-### - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
 
 
 
-**anamacao/anamacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
