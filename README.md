@@ -34,7 +34,7 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
   <img align="center" alt="Ana-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain.svg">
 </div> 
 <br/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=" https://user-images.githubusercontent.com/109255382/206877725-b359ce13-17ee-4788-b306-6abea41c9307.png">
 </div>
 
 ##
