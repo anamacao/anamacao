@@ -3,7 +3,7 @@
 # ✨ Welcome ;) 👋
 
 <p align="center">
-Eu me chamo Ana Beatriz, mas sou mais conhecida como Vanellope na universidade 💖 Estou no meu segundo ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
+Eu me chamo Ana Beatriz, porém sou mais conhecida como Vanellope na universidade 💖 Estou no meu segundo ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
 
 </span>
 
