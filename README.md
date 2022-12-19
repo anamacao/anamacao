@@ -27,7 +27,7 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
 </div>
 
 ##
-### Tecnologias do meu dia a dia: 
+### - Tecnologias do meu dia a dia: 
 <div style="display: inline_block"><br/>
  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
