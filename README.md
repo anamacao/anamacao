@@ -41,7 +41,10 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
   <a href="www.linkedin.com/in/anamacao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 
+![snake gif](https://github.com/anamacao/anamacao/blob/output/github-contribution-grid-snake.gif)
 
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=anamacao&theme=react)](https://github.com/anamacao/anamacao)
 <div> 
 
 
