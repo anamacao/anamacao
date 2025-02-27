@@ -3,7 +3,7 @@
 # ✨ Welcome ;) 👋
 
 <p align="center">
-Eu me chamo Ana Beatriz, porém sou mais conhecida como Vanellope na universidade 💖 Estou no meu quarto ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
+Eu me chamo Ana Beatriz 💖 Estou no meu quarto ano de Relações Internacionais pela Unesp e sou formada em Técnico de Administração pela ETEC.
 
 </span>
 
@@ -17,7 +17,11 @@ Além disso, faço parte do observatório de Política Externa Brasileira (OPEX)
 ### - 🔭 Atualmente estou aprendendo Espanhol e Italiano 
 
 <p align="center">
-Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de Negócios B2B na AIESEC de Franca, uma organização sem fins lucrativos.
+Sou pesquisadora na área de governança digital, proteção de dados e regulação de plataformas online, com foco na harmonização legislativa no Mercosul e nos impactos da LGPD e do RGPD. Minha trajetória combina análise acadêmica e experiência prática, integrando metodologias baseadas em inteligência artificial e visualização de dados para aprofundar pesquisas e tomada de decisão.
+
+Atualmente, atuo como Estagiária de Engajamento na Mereo, onde gerencio uma carteira de clientes e trabalho com soluções estratégicas para otimização de processos logísticos. Também desenvolvo estudos no Labri e no IPRI, explorando infraestrutura computacional e indexação de dados para fortalecer análises sobre políticas digitais.
+
+Tenho interesse em inovação, transformação digital e inteligência de dados aplicadas à regulação, além de experiência em análise de políticas públicas e pesquisa acadêmica no Brasil e no exterior.
 
 ##
 <p align="center">
